@@ -1,4 +1,4 @@
-![logo](https://github.com/singermatt/omrails/blob/master/app/assets/images/Bizrollerlogowithtagline.png)
+![logo](https://raw.github.com/singermatt/omrails/blob/master/app/assets/images/Bizrollerlogowithtagline.png)
 
 
 == Welcome to BizRoller
