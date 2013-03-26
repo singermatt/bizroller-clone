@@ -2,8 +2,5 @@
 
 Created by and for business travelers, BizRoller is the place to connect with other business travelers and get focused reviews on everything from meetings and conferences to hotels, restaurants, attractions and support services. 
 
-<<<<<<< HEAD
 Looking to connect with other travelers while away on business? Seeking something interesting to see? In need of a service to make your travel easier? Sign-up at www.BizRoller.com to be notified when our beta opens and get ready to take your business travel to a new level.
-=======
-Looking to connect with other travelers while away on business? Seeking something interesting to see? In need of a service to make your travel easier? Sign-up at www.bizroller.com to be notified when our beta opens and get ready to take your business travel to a new level.
->>>>>>> 0ea03fffc10ce0140874b85670474013d495acf7
+
