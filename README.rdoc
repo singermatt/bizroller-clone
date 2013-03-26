@@ -1,3 +1,6 @@
+![logo](https://github.com/singermatt/omrails/blob/master/app/assets/images/Bizrollerlogowithtagline.png)
+
+
 == Welcome to BizRoller
 
 Created by and for business travelers, BizRoller is the place to connect with other business travelers and get focused reviews on everything from meetings and conferences to hotels, restaurants, attractions and support services. 
